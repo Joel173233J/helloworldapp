@@ -1,0 +1,14 @@
+C:\Users\L31409.NYPSIT\Desktop\hellodotnetcore\bin\Debug\netcoreapp2.1\hellodotnetcore.deps.json
+C:\Users\L31409.NYPSIT\Desktop\hellodotnetcore\bin\Debug\netcoreapp2.1\hellodotnetcore.runtimeconfig.json
+C:\Users\L31409.NYPSIT\Desktop\hellodotnetcore\bin\Debug\netcoreapp2.1\hellodotnetcore.runtimeconfig.dev.json
+C:\Users\L31409.NYPSIT\Desktop\hellodotnetcore\bin\Debug\netcoreapp2.1\hellodotnetcore.dll
+C:\Users\L31409.NYPSIT\Desktop\hellodotnetcore\bin\Debug\netcoreapp2.1\hellodotnetcore.pdb
+C:\Users\L31409.NYPSIT\Desktop\hellodotnetcore\obj\Debug\netcoreapp2.1\hellodotnetcore.csprojAssemblyReference.cache
+C:\Users\L31409.NYPSIT\Desktop\hellodotnetcore\obj\Debug\netcoreapp2.1\hellodotnetcore.csproj.CoreCompileInputs.cache
+C:\Users\L31409.NYPSIT\Desktop\hellodotnetcore\obj\Debug\netcoreapp2.1\hellodotnetcore.RazorAssemblyInfo.cache
+C:\Users\L31409.NYPSIT\Desktop\hellodotnetcore\obj\Debug\netcoreapp2.1\hellodotnetcore.RazorAssemblyInfo.cs
+C:\Users\L31409.NYPSIT\Desktop\hellodotnetcore\obj\Debug\netcoreapp2.1\hellodotnetcore.AssemblyInfoInputs.cache
+C:\Users\L31409.NYPSIT\Desktop\hellodotnetcore\obj\Debug\netcoreapp2.1\hellodotnetcore.AssemblyInfo.cs
+C:\Users\L31409.NYPSIT\Desktop\hellodotnetcore\obj\Debug\netcoreapp2.1\hellodotnetcore.RazorTargetAssemblyInfo.cache
+C:\Users\L31409.NYPSIT\Desktop\hellodotnetcore\obj\Debug\netcoreapp2.1\hellodotnetcore.dll
+C:\Users\L31409.NYPSIT\Desktop\hellodotnetcore\obj\Debug\netcoreapp2.1\hellodotnetcore.pdb
